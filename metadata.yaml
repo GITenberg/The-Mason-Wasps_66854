@@ -14,6 +14,9 @@ contributor:
     gutenberg_agent_id: '736'
     url: http://www.gutenberg.org/2009/agents/736
     wikipedia: https://en.wikipedia.org/wiki/Alexander_Teixeira_de_Mattos
+covers:
+- cover_type: archival
+  image_path: 66854-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Fabre, Jean-Henri
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/735
     wikipedia: https://en.wikipedia.org/wiki/Jean_Henri_Fabre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66854#The-Mason-Wasps
 gutenberg_issued: '2021-11-30'
 identifiers:
   gutenberg: '66854'
